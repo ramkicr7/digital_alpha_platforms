@@ -1,0 +1,4 @@
+date,description,amount,type,reference
+2026-02-01,Payment cc1001 thanks,"100,000.00",credit,BANK-001
+2026-02-02,Alderwood Holdings LLC wire,90000.00,credit,BANK-002
+2026-02-03,Bank fee,25.00,debit,BANK-003
